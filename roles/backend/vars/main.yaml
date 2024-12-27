@@ -1,3 +1,5 @@
 login_password: ExpenseApp@1
 login_host: db.kanakam.top
 DB_HOST: db.kanakam.top
+app_location: /app
+component: backend

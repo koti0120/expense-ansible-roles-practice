@@ -1,1 +1,3 @@
 DB_HOST: backend.kanakam.top
+component: frontend
+app_location: /usr/share/nginx/html
