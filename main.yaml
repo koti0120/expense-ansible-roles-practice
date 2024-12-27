@@ -1,0 +1,5 @@
+- name: "{{component}} file configuration file"
+  hosts: "{{component}}"
+  become: true
+  roles:
+  - "{{component}}"
